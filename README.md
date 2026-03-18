@@ -12,4 +12,6 @@ Built using:
 
 Small project, but a glimpse of how ML can go beyond benchmarks and into the real world.
 
+URL: https://wild-animal-detector-qn7g4muorp7sejjy8vvgqu.streamlit.app/
+
 #AI #ComputerVision #YOLOv8 #DeepLearning #Python #WildlifeConservation #MachineLearning #OpenCV
